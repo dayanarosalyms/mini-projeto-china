@@ -35,6 +35,7 @@ header > p{
 }
 nav{
     text-align: center;
+    padding-top: 20px;
 }
 nav >a{
     padding:10px;
